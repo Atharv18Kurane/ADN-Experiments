@@ -34,3 +34,40 @@ C:\Users\siddh\OneDrive\Desktop\Dotnet\Lab Experiments\Exp9\Exp9\obj\Debug\net10
 C:\Users\siddh\OneDrive\Desktop\Dotnet\Lab Experiments\Exp9\Exp9\obj\Debug\net10.0\Exp9.pdb
 C:\Users\siddh\OneDrive\Desktop\Dotnet\Lab Experiments\Exp9\Exp9\obj\Debug\net10.0\Exp9.genruntimeconfig.cache
 C:\Users\siddh\OneDrive\Desktop\Dotnet\Lab Experiments\Exp9\Exp9\obj\Debug\net10.0\ref\Exp9.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\appsettings.Development.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\appsettings.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Exp9.staticwebassets.endpoints.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Exp9.exe
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Exp9.deps.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Exp9.runtimeconfig.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Exp9.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Exp9.pdb
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.csproj.AssemblyReference.cache
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.AssemblyInfoInputs.cache
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.AssemblyInfo.cs
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.csproj.CoreCompileInputs.cache
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.MvcApplicationPartsAssemblyInfo.cs
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.MvcApplicationPartsAssemblyInfo.cache
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.sourcelink.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\scopedcss\bundle\Exp9.styles.css
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\staticwebassets.build.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\staticwebassets.development.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\swae.build.ex.cache
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.csproj.Up2Date
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\refint\Exp9.dll
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.pdb
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\Exp9.genruntimeconfig.cache
+D:\ADN-Lab\ADN-Exp\ADN-Experiments\Exp9\obj\Debug\net10.0\ref\Exp9.dll
