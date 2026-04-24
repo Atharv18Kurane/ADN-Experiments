@@ -1,0 +1,58 @@
+@page
+@model CRM_Project.Pages.Customers.Delete
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<h2>Delete Customer</h2>
+
+<div class="alert alert-danger">
+
+    <h4>Are you sure you want to delete this customer?</h4>
+
+</div>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+
+        <label>Name</label>
+
+        <input class="form-control" asp-for="Name" readonly />
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label>Email</label>
+
+        <input class="form-control" asp-for="Email" readonly />
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label>Phone</label>
+
+        <input class="form-control" asp-for="Phone" readonly />
+
+    </div>
+
+
+    <button type="submit" class="btn btn-danger">
+
+        Delete
+
+    </button>
+
+
+    <a asp-page="Index" class="btn btn-secondary">
+
+        Cancel
+
+    </a>
+
+</form>
