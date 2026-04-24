@@ -1,0 +1,6 @@
+@Exp10_HostAddress = http://localhost:5111
+
+GET {{Exp10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
